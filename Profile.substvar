@@ -21,7 +21,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//unittest01//newProperty</name>
-			<value>&quot;abhi&quot;</value>
+			<value>&quot;abhi_github&quot;</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
